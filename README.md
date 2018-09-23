@@ -47,7 +47,18 @@ However, with Project NISEI, Netrunner will continue, though perhaps at a somewh
 This marks a new era for Netrunner, and many of us are very excited.
 The community has always been active in feedback with the design staff, and this process is now baked into the core of Netrunner.
 
+If you're asking if you should devote your time to a "dead game", spend some time with it and judge for yourself.
+There are six years of cards, near infinite decklists, and hundreds are articles.
+You will not be bored.
+There are simple resources for printing out proxies so that you can dive right in.
+And NISEI is dead-set on keeping the meta interesting.
+
 # Learning to Play
+
+If you know of a Netrunner group in your city, go check it out!
+I'm sure people will be happy to show you the ropes.
+If you don't know of a group, check out Team Covenant's [guide to beginning Netrunner](https://teamcovenant.com/learning/android-netrunner/how-to-play-guide-new-players-anr).
+They produce some great videos that walk you through the basics, and provide a set of decks to get you off and running.
 
 ## Rules
 
@@ -58,17 +69,24 @@ After you get a little bit of a grasp of the game, you can hop into the online g
 
 ## Finding Decks
 
-[netrunnerDB](http://www.netrunnerdb.com/)
-[print proxies](https://gparmer.github.io/anrproxy/?id=49800)
+I strongly recommend starting with the [decks](https://teamcovenant.com/learning/android-netrunner/how-to-play-guide-new-players-anr) provided by Team Covenant.
+Once you get a feel for the game, you can browse through all of the cards, and start putting together your own decks.
+[NetrunnerDB](http://www.netrunnerdb.com/) is a great resource for doing so.
+You can view other's decks to see what they are thinking, and explore the vast number of cards.
+
+Once you have a deck you want to play, you can very easily [print it out](https://gparmer.github.io/anrproxy/?id=49800).
+You can use these print-outs in combination with sleeves and some other cards to get running.
+There are many resources for printout out proxies if you want actual cards.
 
 A great resource to understand the history of Netrunner, and of "the meta" is the [history of archetypes](https://docs.google.com/presentation/d/1DVyaSGnzbha30yd2FAHL2TUrTkYOcNstOPCyx4QHlEU/edit#slide=id.g163f2816ec_0_58).
+Each of the decks is accompanied with a NetrunnerDB reference which you can use to [print out it](https://gparmer.github.io/anrproxy/?id=49800) and play.
 Though FFG is dropping official support, there are six years of cards, and six years of changing meta-games well documented there.
 
 ## Playing
 
-There are (unfortunately) many different internet locations that aggregate where and when meet-ups happen.
+There are *many* different internet locations that aggregate where and when meet-ups happen.
 There are active groups, but they can be a little tricky to find.
-I suggest doing a little footwork, and looking on Facebook, asking on stimhack, stimslack, and the reddit subreddit.
+I suggest doing a little footwork, and looking on Facebook, asking on stimhack, stimslack, and the reddit subreddit (see below).
 
 It is also possible -- and easy -- to play online.
 [jinteki.net](https://www.jinteki.net/) is a community-created online Netrunner experience.
@@ -78,7 +96,9 @@ You can make a game with "New Player" in the title, and someone will hop on with
 
 [Stimhack forums](https://forum.stimhack.com/)
 [Netrunner subreddit](http://netrunner.reddit.com/)
-[stimslack]()
+
+There is also a Netrunner Slack channel (`stimhack.slack.com`) that people use to chat about the many aspects of Netrunner.
+To get access, just [provide your email](https://stimhackslackinvite.herokuapp.com/)!
 
 # Getting Good
 
@@ -114,5 +134,6 @@ Some of them that are more approachable include:
 - [Self-Modifying Code](https://www.youtube.com/channel/UCrcjou2_8t7wFun9m68Ufyg) streams regularly on jinteki.net, and you can pause the stream to read the cards.
 	He interviews people in the community (including the NISEI Board), which gives a great insight into how people think about the game.
 - The [Metropole Grid](https://www.youtube.com/channel/UCQ7hPuO4R15t0qAKnjFi-Iw) also frequently streams, and has energetic, great commentary.
+- [The Hacktivist](https://www.youtube.com/channel/UCeJXRdVkWl_5Id7UwPvbvpg) (Kevin Tame, from above) has great videos with rigorous commentary about his thought process.
 - Countless other Netrunner resources.
 	Follow the channels each of them reference, and you'll quickly uncover most of the runner underworld.
