@@ -42,7 +42,7 @@ The summary for corps:
 - Really good ICE including [Fairchild 3.0](http://www.netrunnerdb.com/en/card/11049), [Anansi](http://www.netrunnerdb.com/en/card/21051), [DNA Tracker](http://www.netrunnerdb.com/en/card/11053), [Architect](http://www.netrunnerdb.com/en/card/06061), and [Komainu](http://www.netrunnerdb.com/en/card/05017).
   All of these ICE can drastically change a game.
   Face check (run into ICE without the appropriate breaker) at your own risk.
-  For [Fairchild 3.0], run your first click, so you can use the rest of your clicks to break it.
+  For Fairchild 3.0, run your first click, so you can use the rest of your clicks to break it.
   Always watch a Corp's credit pool to see if they have enough to rez these ICE.
 - [Quantum Predictive Model](http://www.netrunnerdb.com/en/card/09007) and [Data Raven](http://www.netrunnerdb.com/en/card/20113) are often paired together.
   If you run the a Raven, you'll have a tag, which means scoring a QPM will give your opponent a point!
