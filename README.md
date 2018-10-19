@@ -1,21 +1,21 @@
-# Netrunner is Dead; Long Live Netrunnner!
-**Starting to play Netrunner in the post-FFG era.**
+# Booting Up to Play Android Netrunner
+**Netrunner is Dead; Long Live Netrunnner! Starting to play Netrunner in the post-FFG era.**
 
 ## What is Netrunner?
 
-Android Netrunner (aka Netrunner) is a wonderful card game created by Fantasy Flight Games (FFG)
+Android Netrunner (aka Netrunner) is a wonderful card game created by Fantasy Flight Games (FFG), and based off of Netrunner by Wizards of the Coast that was created at the same time as Magic the Gathering.
 It is set in a Cyber-Noir future in which vast Corporations control most of the earth, and beyond.
-These include
-- *Weyland*, that constructed a space elevator called the [beanstalk]() and are adept at lunar mining, and don't hesitate to flatten a neighborhood to hurt the opposition;
-- *NBN*, the communications powerhouse that indends to watch everyone, everywhere, then use that omnipontence to extract maximal value, or drive enemies to ruin;
-- *Haas Bioroid* (HB), whose artificial intelligence and focus on efficiency produces legions of androids intent on being the labor force of the world; and
-- *Jinteki* that competes fiercely with HB with its deep expertise in genetic modifications that instead focus on clone technology to provide cheap labor.
+These include:
+- *Weyland*, who constructed a space elevator called the [beanstalk](http://www.netrunnerdb.com/en/card/20090), are adept at lunar mining and inter-setellar colonization, and don't hesitate to [flatten](http://www.netrunnerdb.com/find/?q=urban+renewal) a [neighborhood](http://www.netrunnerdb.com/find/?q=scorched+earth) to hurt the opposition;
+- *NBN*, the communications powerhouse that indends to watch [everyone](http://www.netrunnerdb.com/find/?q=big+brother), [everywhere](http://www.netrunnerdb.com/find/?q=seeing), then use that omnipontence to extract [maximal value](http://www.netrunnerdb.com/en/card/21117), or drive enemies to [ruin](http://www.netrunnerdb.com/en/card/20119);
+- *Haas Bioroid* (HB), whose [artificial intelligence](http://www.netrunnerdb.com/en/card/10067) and focus on [efficiency](http://www.netrunnerdb.com/en/card/06062) and [augmentation](http://www.netrunnerdb.com/en/card/13030) produces legions of [androids](http://www.netrunnerdb.com/en/card/08010) intent on being the [labor force](http://www.netrunnerdb.com/en/card/20072) of the world; and
+- *Jinteki*, who competes fiercely with HB's labor force using its deep expertise in [genetics](http://www.netrunnerdb.com/en/card/08013) and [clone](http://www.netrunnerdb.com/find/?q=clones) technology, and punishes its enemies with [surprise](http://www.netrunnerdb.com/en/card/20098), and [attrition](http://www.netrunnerdb.com/en/card/05004). 
 
 A small group of passionate *runners* (think "hackers") dare to oppose these corporations.
 They belong to a number of groups including:
-- *Criminals* that are motivated by wealth, and use trickery, subterfuge, and lies to accumulate as much of it as possible;
-- *Shapers* that seek to bend the world around them are motivated by knowledge and cleverness, and use the efficiency of Rube Goldberg setups to brute force into anything; and
-- *Anarchs* that feed on rebellion, chaos, and destruction, to watch the world burn, often with reckless disregard of their own safety.
+- *Criminals* that are motivated by [wealth](http://www.netrunnerdb.com/en/card/20033), and use [trickery](http://www.netrunnerdb.com/en/card/01018), [subterfuge](http://www.netrunnerdb.com/en/card/20022), and [lies](http://www.netrunnerdb.com/find/?q=bribery) to accumulate as much of it as possible;
+- *Shapers* that seek to [bend](http://www.netrunnerdb.com/find/?q=reshape) the world around them are motivated by [knowledge](http://www.netrunnerdb.com/find/?q=knowledge) and [cleverness](http://www.netrunnerdb.com/en/card/20040), and use the efficiency of [Rube Goldberg](http://www.netrunnerdb.com/find/?q=escher) setups to [brute force](http://www.netrunnerdb.com/en/card/20048) into anything; and
+- *Anarchs* that feed on [rebellion](http://www.netrunnerdb.com/find/?q=protesters), [chaos](http://www.netrunnerdb.com/en/card/12061), and [destruction](http://www.netrunnerdb.com/find/?q=wanton), to watch the [world burn](http://www.netrunnerdb.com/en/card/11001), often with reckless [disregard](http://www.netrunnerdb.com/en/card/07051) of their own [safety](http://www.netrunnerdb.com/en/card/20005).
 
 Netrunner is nothing if not diverse.
 Over the game's life, Netrunner has visited the site of the beanstalk in South America, the thriving cities in India, the metropolis in Africa, the mining colonies on the Moon, and the rebellious Mars.
