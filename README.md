@@ -1,4 +1,4 @@
-# Booting Up to Play Android Netrunner
+# Booting Up in Android Netrunner
 **Netrunner is Dead; Long Live Netrunnner! Starting to play Netrunner in the post-FFG era.**
 
 ## What is Netrunner?
@@ -23,18 +23,27 @@ Of the runner identities, they represent the increasingly global future with man
 
 **Mechanically**, Netrunner has a number of wonderfully implemented characteristics:
 
-- Netrunner is a card game, which means it thrives on the randomness of the draw, but a number of actions are built in, so in the worst case, if you expend your resources, you'll only have to slow down a little bit.
-- It is an asymmetric game where playing the corp follows different rules than playing the runner.
-	The corp builds defenses vertically to protect
-
-- Each player chooses a unique identity that sets the theme and direction of the deck.
-- Netrunner is pretty complex, and there are *lots* of cards.
-	It can be a little daunting to dive into, but luckily there are resources below that should make the plunge easier!
+- Netrunner is a card game, which means it thrives on the randomness of the draw, but a *number of actions are built in*, so in the worst case, if you expend your resources, you'll only have to slow down a little bit.
+- It is an *asymmetric game* where playing the corp follows different rules than playing the runner.
+  The corp builds defenses vertically to protect its servers from prying runners, and expands its empire horizontally.
+  The runner builds their rig of programs and hardware, interacts with the people and places they network, all to most effectively break into the corp's servers and tear down their assets.
+- Each player chooses a *unique identity* that sets the theme and direction of the deck.
+- Netrunner uses *hidden information* very effectively.
+  Each player has their own hand of hidden cards, of course, but Netrunner goes far beyond this.
+  The defenses that the corp uses to protect its servers, and the assets they place inside of them are all *face down*.
+  When the runner interacts with the corp, they are doing so blind.
+  This is the thrill both of running, and of laying traps.
+- Building your board state is often about an *efficiency given and take*.
+  It is not like many other games based on trying to "stick" a big character.
+- Netrunner is *pretty complex*, and there are *lots* of cards.
+  It is not the type of a game you get bored of quickly, and there are many different styles to dabble in.
+  It can be a little daunting to dive into, but luckily there are resources below that should make the plunge easier!
 
 **Community:**
 A common refrain within the player-base is that one of (if not *the*) best aspect of Netrunner is the people who play it.
 It is generally full of friendly people who happen to like to create and to solve puzzles in a head-to-head match.
 Rudeness is rare, help is always available, and you're surrounded by interesting people.
+It says a lot how much effort and thought has gone into NISEI.
 
 # History and Future
 
@@ -50,6 +59,7 @@ The community has always been active in feedback with the design staff, and this
 If you're asking if you should devote your time to a "dead game", spend some time with it and judge for yourself.
 There are six years of cards, near infinite decklists, and hundreds are articles.
 You will not be bored.
+There are playgroups around the world that still meet up and play Netrunner.
 There are simple resources for printing out proxies so that you can dive right in.
 And NISEI is dead-set on keeping the meta interesting.
 
@@ -91,6 +101,9 @@ I suggest doing a little footwork, and looking on Facebook, asking on stimhack, 
 It is also possible -- and easy -- to play online.
 [jinteki.net](https://www.jinteki.net/) is a community-created online Netrunner experience.
 You can make a game with "New Player" in the title, and someone will hop on with you to show you the ropes.
+
+There are some key interactions that you should really know about if you sit down across from someone who has been playing for a long time.
+Most of these are spelled out [here](https://github.com/gparmer/anr_booting_up/blob/master/important_cards.md); you can use that to get a view on some of the more impactful interactions you should know about.
 
 # Community
 
