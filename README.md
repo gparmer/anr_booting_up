@@ -84,7 +84,7 @@ Once you get a feel for the game, you can browse through all of the cards, and s
 [NetrunnerDB](http://www.netrunnerdb.com/) is a great resource for doing so.
 You can view other's decks to see what they are thinking, and explore the vast number of cards.
 
-Once you have a deck you want to play, you can very easily [print it out](https://gparmer.github.io/anrproxy/?id=49800).
+Once you have a deck you want to play, you can very easily [print it out](https://www.reddit.com/r/Netrunner/comments/9y19y2/i_want_a_2019_system_core_exploring_proxy_options/?utm_source=reddit&utm_medium=usertext&utm_name=Netrunner&utm_content=t1_eavel3v).
 You can use these print-outs in combination with sleeves and some other cards to get running.
 There are many resources for printout out proxies if you want actual cards.
 
